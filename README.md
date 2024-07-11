@@ -15,6 +15,11 @@ This contract demonstrates fundamental ERC20 token functionalities such as minti
 
 ## Getting Started
 
+### Installing
+
+* Download your program from the GitHub repository or any provided link.
+* No modifications needed to be made to files/folders.
+
 ### Executing Program
 
 To interact with this contract, follow these steps using Remix, an online Solidity IDE:
@@ -24,7 +29,7 @@ To interact with this contract, follow these steps using Remix, an online Solidi
 
 2. **Create and Save File:**
    - Click on the "+" icon in the left-hand sidebar to create a new file.
-   - Save the file with a .sol extension (e.g., `Utkarsh.sol`).
+   - Save the file with a .sol extension (e.g., `MyToken.sol`).
 
 3. **Compile Code:**
    - Switch to the "Solidity Compiler" tab in Remix.
@@ -40,3 +45,12 @@ To interact with this contract, follow these steps using Remix, an online Solidi
    - Once deployed, interact with the contract:
      - Use the `createTokens` function to mint tokens to a recipient address.
      - Use the `destroyTokens` function to burn tokens owned by the caller.
+
+## Help
+
+For common problems or issues, refer to Remix IDE documentation or Solidity documentation.
+
+## Author
+
+Utkarsh Vinayak
+
